@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlauPla
 - I’m interested in web developent especially backend with python
-- I’m currently learning Flask
+- I’m currently learning Django
 - My website https://olaupla.eu.pythonanywhere.com
 
 <!---
